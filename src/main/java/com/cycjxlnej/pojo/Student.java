@@ -24,4 +24,8 @@ public class Student {
     public void setPassword(String password) {
         this.password = password;
     }
+
+    public void logout() {
+        System.out.println("hello");
+    }
 }
