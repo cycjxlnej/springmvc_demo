@@ -28,4 +28,7 @@ public class Student {
     public void login() {
         System.out.println("hhhhh");
     }
+    public void logout() {
+        System.out.println("hello");
+    }
 }
