@@ -7,6 +7,7 @@ package com.cycjxlnej.pojo;
 public class Student {
     private String name;
     private String password;
+    private String hobby;
 
     public String getName() {
         return name;
